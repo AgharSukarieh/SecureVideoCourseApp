@@ -58,33 +58,23 @@ MyProject/
 - Android SDK API Level 21 or higher  
 - Internet connection for YouTube playback  
 
----
+----
 ## 📸 App Screenshots
 
-![Login Screen](<images_screen/WhatsApp Image 2025-05-14 at 5.48.16 PM.jpeg>)  
-*Login screen with SHA‑256 and “Remember Me”*
+![Main Screen](images_screen/main.jpeg)
 
-![Course List](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM.jpeg>)  
-*Scrollable list of courses*
+![Login Screen](images_screen/login.jpeg)
 
-![Course Details](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM (1).jpeg>)  
-*Course details and video thumbnail*
+![Register Screen](images_screen/register.jpeg)
 
-![Video Playback](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM (2).jpeg>)  
-*In‑app YouTube playback*
+![Course List](images_screen/coures.jpeg)
 
-![Remember Me](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM (3).jpeg>)  
-*“Remember Me” enabled*
+![Video Detail](images_screen/video.jpeg)
 
-![Registration](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM (4).jpeg>)  
-*User registration flow*
+![Video Playback List](images_screen/listvideo.jpeg)
 
-![Password Reset](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM (5).jpeg>)  
-*Forgot password screen*
-
-![Settings](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM (6).jpeg>)  
-*App settings and logout*
-
+![Forgot Password](images_screen/forget.jpeg)
+-----
 ## 🚀 Getting Started
 
 1. **Clone the repo**  

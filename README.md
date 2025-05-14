@@ -28,7 +28,14 @@ MyProject/
 └── AdapterMyCard.java
 
 ---
+##  Architecture
 
+This project is implemented using the **Model‑View‑Presenter (MVP)** pattern:
+- **Model**: your POJOs and database helpers  
+- **View**: Activities under `ui/`  
+- **Presenter**: classes like `Presenter.java` and `ModelPresenter.java` handling all UI logic  
+
+---
 ## ⭐ Features
 
 1. **User Registration & Login**  

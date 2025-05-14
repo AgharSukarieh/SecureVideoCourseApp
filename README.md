@@ -59,6 +59,31 @@ MyProject/
 - Internet connection for YouTube playback  
 
 ---
+## 📸 App Screenshots
+
+![Login Screen](<images_screen/WhatsApp Image 2025-05-14 at 5.48.16 PM.jpeg>)  
+*Login screen with SHA‑256 and “Remember Me”*
+
+![Course List](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM.jpeg>)  
+*Scrollable list of courses*
+
+![Course Details](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM (1).jpeg>)  
+*Course details and video thumbnail*
+
+![Video Playback](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM (2).jpeg>)  
+*In‑app YouTube playback*
+
+![Remember Me](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM (3).jpeg>)  
+*“Remember Me” enabled*
+
+![Registration](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM (4).jpeg>)  
+*User registration flow*
+
+![Password Reset](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM (5).jpeg>)  
+*Forgot password screen*
+
+![Settings](<images_screen/WhatsApp Image 2025-05-14 at 5.48.17 PM (6).jpeg>)  
+*App settings and logout*
 
 ## 🚀 Getting Started
 
